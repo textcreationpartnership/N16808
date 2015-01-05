@@ -110,8 +110,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:021628_0000_0FB489752F12A4D8"/>
-            <pb facs="tcp:021628_0001_0FB48976ADFC52D8"/>
+            <pb facs="unknown:021628_0000_0FB489752F12A4D8"/>
+            <pb facs="unknown:021628_0001_0FB48976ADFC52D8"/>
             <p>THE Philadelphia Songſter. PART I. BEING A COLLECTION of CHOICE SONGS; SUCH AS ARE Calculated to pleaſe the EAR, WHILE THEY Improve the MIND, and make the HEART better.</p>
             <p>By ABSALOM AIMWELL, ESQUIRE.</p>
             <q>
@@ -131,7 +131,7 @@
       </front>
       <body>
          <div type="songs">
-            <pb n="3" facs="tcp:021628_0002_0FB489782CFA2130"/>
+            <pb n="3" facs="unknown:021628_0002_0FB489782CFA2130"/>
             <head>THE Philadelphia Songſter.</head>
             <div n="1" type="song">
                <head>I. <hi>God ſave America.</hi>
@@ -148,7 +148,7 @@
                   </gap>
                </p>
                <lg>
-                  <pb facs="tcp:021628_0003_0FB48979AF432EA0"/>
+                  <pb facs="unknown:021628_0003_0FB48979AF432EA0"/>
                   <l>God ſave great WASHINGTON!</l>
                   <l>Fair Freedom's choſen ſon,</l>
                   <l>Born to command:</l>
@@ -177,7 +177,7 @@
                </lg>
             </div>
             <div n="2" type="song">
-               <pb n="5" facs="tcp:021628_0004_0FB4897B2D266920"/>
+               <pb n="5" facs="unknown:021628_0004_0FB4897B2D266920"/>
                <head>II. <hi>A Catch, for three Voices.</hi>
                </head>
                <p>
@@ -196,7 +196,7 @@
                   </gap> When harmony, ſweet harmony, and love unite.</p>
             </div>
             <div n="3" type="song">
-               <pb n="6" facs="tcp:021628_0005_0FB4897CAF0B7500"/>
+               <pb n="6" facs="unknown:021628_0005_0FB4897CAF0B7500"/>
                <head>III. <hi>Roſy Morn,</hi>
                </head>
                <p>
@@ -214,7 +214,7 @@
                   <l>To ſecure the golden grain.</l>
                </lg>
                <lg>
-                  <pb n="7" facs="tcp:021628_0006_0FB4897E488E8188"/>
+                  <pb n="7" facs="unknown:021628_0006_0FB4897E488E8188"/>
                   <head>Chorus.</head>
                   <l>See content the humble gleaner,</l>
                   <l>Take the ſcatter'd ears that fall;</l>
@@ -247,7 +247,7 @@
                </lg>
             </div>
             <div n="5" type="song">
-               <pb n="8" facs="tcp:021628_0007_0FB4897FAE777E18"/>
+               <pb n="8" facs="unknown:021628_0007_0FB4897FAE777E18"/>
                <head>V. <hi>Indian Chief.</hi>
                </head>
                <p>
@@ -280,7 +280,7 @@
                </lg>
             </div>
             <div n="6" type="song">
-               <pb n="9" facs="tcp:021628_0008_0FB48983427184D0"/>
+               <pb n="9" facs="unknown:021628_0008_0FB48983427184D0"/>
                <head>VI. <hi>Anna.</hi>
                </head>
                <p>
@@ -314,7 +314,7 @@
                </lg>
             </div>
             <div n="7" type="song">
-               <pb n="10" facs="tcp:021628_0009_0FB489842D14EC90"/>
+               <pb n="10" facs="unknown:021628_0009_0FB489842D14EC90"/>
                <head>VII. <hi>Myra.</hi>
                </head>
                <p>
@@ -334,7 +334,7 @@
                      <desc>〈♫〉</desc>
                   </gap> empty deluſions the joys of an hour.</p>
                <lg>
-                  <pb n="11" facs="tcp:021628_0010_0FB48985AD147F30"/>
+                  <pb n="11" facs="unknown:021628_0010_0FB48985AD147F30"/>
                   <l>How much to be priz'd and eſteem'd is a friend,</l>
                   <l>On whom we may always with ſafety depend;</l>
                   <l>Our joys, when extended, will always increaſe,</l>
@@ -368,7 +368,7 @@
                </lg>
             </div>
             <div n="9" type="song">
-               <pb n="12" facs="tcp:021628_0011_0FB489872D162510"/>
+               <pb n="12" facs="unknown:021628_0011_0FB489872D162510"/>
                <head>IX. <hi>Friendſhip.</hi>
                </head>
                <head type="sub">Words by Mr. BIDWELL of Connecticut. Tune, <hi>The Britiſh Muſe.</hi>
@@ -387,7 +387,7 @@
                   </gap>
                </p>
                <lg>
-                  <pb n="13" facs="tcp:021628_0012_0FB48988B9508028"/>
+                  <pb n="13" facs="unknown:021628_0012_0FB48988B9508028"/>
                   <l>Poor are the joys which fools eſteem,</l>
                   <l>Fading and tranſitory;</l>
                   <l>Mirth is as fleeting as a dream,</l>
@@ -435,7 +435,7 @@
                </lg>
             </div>
             <div n="10" type="song">
-               <pb n="14" facs="tcp:021628_0013_0FB4898A2F02D5F8"/>
+               <pb n="14" facs="unknown:021628_0013_0FB4898A2F02D5F8"/>
                <head>X. <hi>Glee, for three Voices.</hi>
                </head>
                <head type="sub">Words by BEN JOHNSON.</head>
@@ -451,7 +451,7 @@
                <p>N. B. Cloſe with the firſt ſtrain.</p>
             </div>
             <div n="11" type="song">
-               <pb n="15" facs="tcp:021628_0014_0FB4898BAD138918"/>
+               <pb n="15" facs="unknown:021628_0014_0FB4898BAD138918"/>
                <head>XI. <hi>Anna's Urn.</hi>
                </head>
                <p>
@@ -479,7 +479,7 @@
                   <l>But in my Anna's urn.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:021628_0015_0FB4898EAD7CC298"/>
+                  <pb facs="unknown:021628_0015_0FB4898EAD7CC298"/>
                   <l>Pleaſure which led each varying ſcene,</l>
                   <l>Is now for ever flown;</l>
                   <l>The ſweets of each returning year</l>
